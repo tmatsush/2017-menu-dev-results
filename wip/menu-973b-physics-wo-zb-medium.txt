@@ -83,7 +83,7 @@ L1_DoubleEG_24_17                                             87         1
 L1_DoubleEG_25_12                                             88         1              
 L1_DoubleEG_25_13                                             89         1              
 L1_DoubleEG_25_14                                             90         1              
-L1_TripleEG_14_10_8                                           91         2              
+L1_TripleEG_14_10_8                                           91         0              
 L1_TripleEG_18_17_8                                           92         1              
 L1_SingleTau20                                               100         0              
 L1_SingleTau80er2p1                                          101         1              
@@ -102,7 +102,7 @@ L1_DoubleIsoTau38er2p1                                       113         1
 L1_SingleJet16                                               120         0              
 L1_SingleJet20                                               121         0              
 L1_SingleJet35                                               122         60000              
-L1_SingleJet60                                               123         80              
+L1_SingleJet60                                               123         4000            
 L1_SingleJet90                                               124         10              
 L1_SingleJet120                                              125         1              
 L1_SingleJet140                                              126         1              
@@ -112,9 +112,9 @@ L1_SingleJet170                                              129         1
 L1_SingleJet180                                              130         1              
 L1_SingleJet200                                              131         1              
 L1_DoubleJet40er3p0                                          140         0              
-L1_DoubleJet50er3p0                                          141         0              
-L1_DoubleJet60er3p0                                          142         0              
-L1_DoubleJet80er3p0                                          143         1              
+L1_DoubleJet50er3p0                                          141       100              
+L1_DoubleJet60er3p0                                          142        50              
+L1_DoubleJet80er3p0                                          143        10              
 L1_DoubleJet100er3p0                                         144         1              
 L1_DoubleJet112er3p0                                         145         1              
 L1_DoubleJet120er3p0                                         146         1              
@@ -139,7 +139,7 @@ L1_HTT380er                                                  171         1
 L1_HTT400er                                                  172         1              
 L1_HTT450er                                                  173         1              
 L1_HTT500er                                                  174         1              
-L1_ETM30                                                     180         0              
+L1_ETM30                                                     180         60000
 L1_ETM40                                                     181         0              
 L1_ETM50                                                     182         0              
 L1_ETM60                                                     183         1000              
@@ -155,7 +155,7 @@ L1_ETM110                                                    192         1
 L1_ETM115                                                    193         1              
 L1_ETM120                                                    194         1              
 L1_ETM150                                                    195         1              
-L1_ETMHF70                                                   200         0              
+L1_ETMHF70                                                   200         1000
 L1_ETMHF80                                                   201         0              
 L1_ETMHF90                                                   202         0              
 L1_ETMHF100                                                  203         0              
